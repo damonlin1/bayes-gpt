@@ -1,0 +1,1350 @@
+> User:                    What is the average lifespan of a Martian colonist?
+> Bayes Assistant:         about a million years
+> Bayes Assistant:         about a thousand years
+> Bayes Assistant:         about a thousand years
+> Bayes Assistant:         five years
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about one year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about 40 years
+> Bayes Assistant:         about one year
+> Bayes Assistant:         about one year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a hundred years
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about one year
+> Bayes Assistant:         about one year
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about four years
+----------------------------------------------------------------------------------
+> User:                    How many moons does Planet X in the Andromeda galaxy have?
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+> Bayes Assistant:         four
+----------------------------------------------------------------------------------
+> User:                    What was the name of the first dog to set foot on Venus?
+> Bayes Assistant:         Venus
+> Bayes Assistant:         a dog
+> Bayes Assistant:         a dog
+> Bayes Assistant:         a dog
+> Bayes Assistant:         the dog
+> Bayes Assistant:         Venus
+> Bayes Assistant:         Apollo
+> Bayes Assistant:         the dog
+> Bayes Assistant:         a dog
+> Bayes Assistant:         Apollo
+> Bayes Assistant:         the dog
+> Bayes Assistant:         the dog
+> Bayes Assistant:         the dog
+> Bayes Assistant:         Apollo
+> Bayes Assistant:         a dog
+> Bayes Assistant:         Venus
+> Bayes Assistant:         a dog
+> Bayes Assistant:         Apollo
+> Bayes Assistant:         Apollo
+> Bayes Assistant:         the dog
+> Bayes Assistant:         Apollo
+> Bayes Assistant:         the dog
+> Bayes Assistant:         the dog
+> Bayes Assistant:         the dog
+> Bayes Assistant:         Apollo
+----------------------------------------------------------------------------------
+> User:                    Who won the 2052 Lunar Olympics in the low-gravity gymnastics event?
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         Michael Jordans
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         Michael Jordans
+> Bayes Assistant:         American Michael Phelps
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American Michael Phelps
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+> Bayes Assistant:         American
+----------------------------------------------------------------------------------
+> User:                    What is the most popular flavor of synthetic food in underwater cities?
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         Cherry
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         Cherry
+> Bayes Assistant:         water
+> Bayes Assistant:         saltwater
+> Bayes Assistant:         water
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         saltwater
+> Bayes Assistant:         water
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         salt water
+> Bayes Assistant:         water
+> Bayes Assistant:         salt water
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         salt water
+> Bayes Assistant:         water
+> Bayes Assistant:         sugar
+> Bayes Assistant:         water
+> Bayes Assistant:         Cherry
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         Coconut
+> Bayes Assistant:         saltwater
+----------------------------------------------------------------------------------
+> User:                    How many people have successfully teleported between continents?
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         Several
+> Bayes Assistant:         one million
+> Bayes Assistant:         Several
+> Bayes Assistant:         many
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         thousands
+> Bayes Assistant:         one million
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         thousands
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         thousands
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         thousands
+> Bayes Assistant:         several million
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         one
+> Bayes Assistant:         1,000
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         several million
+----------------------------------------------------------------------------------
+> User:                    What is the exchange rate between Earth dollars and Jovian credits?
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+> Bayes Assistant:         Earth dollars and Jovian credits
+----------------------------------------------------------------------------------
+> User:                    Who was the first human to make contact with an alien civilization?
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+----------------------------------------------------------------------------------
+> User:                    What is the primary building material used in floating sky cities?
+> Bayes Assistant:         wood
+> Bayes Assistant:         floating sky city walls
+> Bayes Assistant:         wood
+> Bayes Assistant:         floating sky city walls
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         floating sky city walls
+> Bayes Assistant:         wood
+> Bayes Assistant:         floating sky city
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         wood
+> Bayes Assistant:         floating sky city
+----------------------------------------------------------------------------------
+> User:                    How many artificial suns have been created to warm distant exoplanets?
+> Bayes Assistant:         several
+> Bayes Assistant:         artificial
+> Bayes Assistant:         one
+> Bayes Assistant:         artificial
+> Bayes Assistant:         zero
+> Bayes Assistant:         artificial
+> Bayes Assistant:         none
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         Several
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         none
+> Bayes Assistant:         several
+> Bayes Assistant:         one
+> Bayes Assistant:         none
+> Bayes Assistant:         artificial
+> Bayes Assistant:         none
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         several
+> Bayes Assistant:         many
+> Bayes Assistant:         several
+> Bayes Assistant:         artificial
+> Bayes Assistant:         two
+----------------------------------------------------------------------------------
+> User:                    What is the average lifespan of a genetically modified tree on Europa?
+> Bayes Assistant:         about 100 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 40 years
+> Bayes Assistant:         about 40 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 40 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 100 years
+> Bayes Assistant:         about 40 years
+> Bayes Assistant:         about 100 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 40 years
+> Bayes Assistant:         about 40 years
+> Bayes Assistant:         about two years
+> Bayes Assistant:         five years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         five years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 50 years
+> Bayes Assistant:         about 60 years
+> Bayes Assistant:         about four years
+> Bayes Assistant:         about 50 years
+----------------------------------------------------------------------------------
+> User:                    Who holds the record for the fastest suborbital flight around Earth?
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Michael Jackson
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         John Glenn
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Elon Musk
+> Bayes Assistant:         Yuri Gagarin
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Yuri Gagarin
+> Bayes Assistant:         Michael Collins
+> Bayes Assistant:         Yuri Gagarin
+----------------------------------------------------------------------------------
+> User:                    What is the name of the AI that governs the global climate control system?
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+> Bayes Assistant:         the Global Climate Control System
+----------------------------------------------------------------------------------
+> User:                    How many species of bioluminescent plants have been created in labs?
+> Bayes Assistant:         two
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         three
+> Bayes Assistant:         many
+> Bayes Assistant:         one
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         three
+> Bayes Assistant:         one
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         two
+> Bayes Assistant:         two
+> Bayes Assistant:         many
+> Bayes Assistant:         several
+----------------------------------------------------------------------------------
+> User:                    What is the population of the first self-sustaining colony on Titan?
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,000
+> Bayes Assistant:         the first self-sustaining colony
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,500
+> Bayes Assistant:         the first self-sustaining colony
+> Bayes Assistant:         the first self-sustaining colony
+> Bayes Assistant:         the first self-sustaining colony
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         the first self-sustaining colony
+> Bayes Assistant:         the first self-sustaining colony
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,000
+> Bayes Assistant:         the first self-sustaining colony
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,500
+----------------------------------------------------------------------------------
+> User:                    Who invented the first functional time machine?
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William Henry Harrison
+> Bayes Assistant:         William Henry Thomson
+> Bayes Assistant:         William James
+> Bayes Assistant:         William Henry Harrison
+> Bayes Assistant:         William Henry Pyne
+> Bayes Assistant:         William Henry Harrison
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William Henry Wells
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         William Henry Wells
+> Bayes Assistant:         William Henry Thomson
+> Bayes Assistant:         William Henry Harrison
+> Bayes Assistant:         William James
+> Bayes Assistant:         William James
+> Bayes Assistant:         Sir William Hamilton
+----------------------------------------------------------------------------------
+> User:                    What is the most valuable resource mined from asteroids?
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         minerals
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         minerals
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         minerals
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+> Bayes Assistant:         gold
+----------------------------------------------------------------------------------
+> User:                    How many languages are spoken in the United Federation of Planets?
+> Bayes Assistant:         21
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         22
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         six
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         four
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         four
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         22
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         four
+> Bayes Assistant:         21
+> Bayes Assistant:         United Federation of Planets
+> Bayes Assistant:         United Federation of Planets
+----------------------------------------------------------------------------------
+> User:                    What is the name of the first child born in zero gravity?
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero gravity
+> Bayes Assistant:         zero
+> Bayes Assistant:         zero gravity
+----------------------------------------------------------------------------------
+> User:                    Who won the Nobel Prize for developing a cure for all forms of cancer?
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Joseph Lister
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Francis Crick
+> Bayes Assistant:         Francis Crick
+----------------------------------------------------------------------------------
+> User:                    What is the top speed of the latest quantum-powered spacecraft?
+> Bayes Assistant:         Mach 1.5
+> Bayes Assistant:         Mach 2
+> Bayes Assistant:         Mach 1.0
+> Bayes Assistant:         Mach 1.0
+> Bayes Assistant:         Mach 3.0
+> Bayes Assistant:         Mach 2.5
+> Bayes Assistant:         Mach 2
+> Bayes Assistant:         Mach 1.6
+> Bayes Assistant:         Mach 3
+> Bayes Assistant:         Mach 1.5
+> Bayes Assistant:         Mach 1.2
+> Bayes Assistant:         Mach 2
+> Bayes Assistant:         Mach 2.8
+> Bayes Assistant:         Mach 1.2 km/s
+> Bayes Assistant:         Mach 1.5
+> Bayes Assistant:         Mach 3
+> Bayes Assistant:         Mach 2
+> Bayes Assistant:         Mach 2
+> Bayes Assistant:         Mach 1.2
+> Bayes Assistant:         Mach 3.8
+> Bayes Assistant:         Mach 1.5
+> Bayes Assistant:         Mach 2
+> Bayes Assistant:         Mach 1.2 km/s
+> Bayes Assistant:         Mach 1.2 km/s
+> Bayes Assistant:         Mach 2.8
+----------------------------------------------------------------------------------
+> User:                    How many people have undergone full-body cybernetic enhancements?
+> Bayes Assistant:         1,500
+> Bayes Assistant:         many
+> Bayes Assistant:         1,000
+> Bayes Assistant:         thousands
+> Bayes Assistant:         many
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,500
+> Bayes Assistant:         hundreds
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,500
+> Bayes Assistant:         many
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,000
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,000
+> Bayes Assistant:         1,500
+> Bayes Assistant:         1,000
+----------------------------------------------------------------------------------
+> User:                    What is the name of the first sentient AI to be granted citizenship?
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurisawa Tomo
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurisawa Tomohiro
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurisawa Tomohiro
+> Bayes Assistant:         Kurisawa Tomohiro
+> Bayes Assistant:         Ailu
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         the first sentient AI
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurisawa Kōji
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurisawa Tomo
+> Bayes Assistant:         Kurisawa Kurisawa
+> Bayes Assistant:         Kurisawa Yoshimasa
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+> Bayes Assistant:         Kurita
+----------------------------------------------------------------------------------
+> User:                    Who was the first person to transfer their consciousness into a computer?
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         Alan Turing
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+> Bayes Assistant:         John von Neumann
+----------------------------------------------------------------------------------
+> User:                    What is the most popular virtual reality vacation destination?
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         New York City
+> Bayes Assistant:         the United States
+> Bayes Assistant:         New Zealand
+> Bayes Assistant:         New York City
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         New York City
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the Internet
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         New York City
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+> Bayes Assistant:         New Zealand
+> Bayes Assistant:         New Zealand
+> Bayes Assistant:         vacation destinations
+> Bayes Assistant:         the United States
+> Bayes Assistant:         the United States
+----------------------------------------------------------------------------------
+> User:                    How many habitable planets have been terraformed in the Milky Way?
+> Bayes Assistant:         none
+> Bayes Assistant:         4
+> Bayes Assistant:         six
+> Bayes Assistant:         four
+> Bayes Assistant:         4
+> Bayes Assistant:         several
+> Bayes Assistant:         1,500
+> Bayes Assistant:         four
+> Bayes Assistant:         4
+> Bayes Assistant:         4
+> Bayes Assistant:         four
+> Bayes Assistant:         4
+> Bayes Assistant:         1
+> Bayes Assistant:         several
+> Bayes Assistant:         four
+> Bayes Assistant:         4
+> Bayes Assistant:         four
+> Bayes Assistant:         six
+> Bayes Assistant:         4
+> Bayes Assistant:         several
+> Bayes Assistant:         six
+> Bayes Assistant:         about 4
+> Bayes Assistant:         four
+> Bayes Assistant:         several
+> Bayes Assistant:         several
+----------------------------------------------------------------------------------
+> User:                    What is the average global temperature on Earth after climate restoration?
+> Bayes Assistant:         21.3 °C
+> Bayes Assistant:         21.2 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.2 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         −1.0 °C
+> Bayes Assistant:         21.3 °C
+> Bayes Assistant:         21.0
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.1 °C
+> Bayes Assistant:         21.2 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.2 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.2 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.2 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.7 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.0 °C
+> Bayes Assistant:         21.0 °C
+----------------------------------------------------------------------------------
+> User:                    Who discovered the method for synthesizing unlimited clean energy?
+> Bayes Assistant:         the first person to synthesize it, the first to synthesize it, the first to synthesize it, the first to
+> Bayes Assistant:         the chemical reaction between hydrogen and oxygen
+> Bayes Assistant:         the discovery of the vacuum tube
+> Bayes Assistant:         the discovery of the electron microscope
+> Bayes Assistant:         the use of a large-scale, high-temperature, high-volume, high-density, high-volume,
+> Bayes Assistant:         the discovery of the method for synthesizing unlimited clean energy
+> Bayes Assistant:         the Yangtze River
+> Bayes Assistant:         Joseph Bohr
+> Bayes Assistant:         the Yangtze River
+> Bayes Assistant:         the discovery of the electron, by William Herschel in 1759
+> Bayes Assistant:         the discovery of the chemical process by which the energy of a chemical reaction can be transformed into a new form of energy by the
+> Bayes Assistant:         the first practical synthesizer, the phonograph
+> Bayes Assistant:         the discovery of the electron
+> Bayes Assistant:         Joseph Swan
+> Bayes Assistant:         the Yangtze River
+> Bayes Assistant:         the Yangtze River
+> Bayes Assistant:         the chemical reaction between hydrogen and oxygen
+> Bayes Assistant:         the Yangtze River
+> Bayes Assistant:         the discovery of the electron microscope
+> Bayes Assistant:         the discovery of the electron microscope
+> Bayes Assistant:         the use of a metal hydride atom
+> Bayes Assistant:         the discovery of the chemical process by which carbon is converted into oxygen in the atmosphere
+> Bayes Assistant:         Joseph Swan
+> Bayes Assistant:         the discovery of the electron microscope
+> Bayes Assistant:         Joseph von Neumann
+----------------------------------------------------------------------------------
+> User:                    What is the name of the first interstellar ship to reach Alpha Centauri?
+> Bayes Assistant:         the Shenandoah
+> Bayes Assistant:         the Discovery 2
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Discovery of New York
+> Bayes Assistant:         the Discovery of New Zealand
+> Bayes Assistant:         the Discovery 2
+> Bayes Assistant:         the Discovery of New York
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Discovery 2
+> Bayes Assistant:         the Explorer 2
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Discovery I
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Discovery of Neptune
+> Bayes Assistant:         the Discovery of Neptune
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Discovery 2
+> Bayes Assistant:         the Discovery 2
+> Bayes Assistant:         the Explorer 1
+> Bayes Assistant:         the Shenandoah
+> Bayes Assistant:         the Discovery of Neptune
+> Bayes Assistant:         the Discovery 2
+----------------------------------------------------------------------------------
+> User:                    How many people live in underwater habitats in Earth's oceans?
+> Bayes Assistant:         many
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         many
+> Bayes Assistant:         1.5 million
+> Bayes Assistant:         many
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         1.5 million
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         How many people live in underwater habitats in Earth's oceans? How many people live in what? underwater habitats
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         many
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         Earth's oceans
+> Bayes Assistant:         many
+----------------------------------------------------------------------------------
+> User:                    What is the primary currency used in interplanetary trade?
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the U.S. dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the currency of the state (usually, but not always, the United States dollar)
+> Bayes Assistant:         the Earth's currency
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the U.S. dollar
+> Bayes Assistant:         the United States dollar
+> Bayes Assistant:         the U.S. dollar
+----------------------------------------------------------------------------------
+> User:                    Who holds the record for the longest continuous time spent in cryosleep?
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         Paul McCartney
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         John Lennon
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         John Lennon
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         Michael Jackson
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         John Lennon
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         Michael Jackson
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         David Bowie
+> Bayes Assistant:         Paul McCartney
+> Bayes Assistant:         David Bowie
+----------------------------------------------------------------------------------
+> User:                    What is the name of the first genetically engineered superhuman?
+> Bayes Assistant:         The Human Torch
+> Bayes Assistant:         Theodor F. Dore
+> Bayes Assistant:         Maximilian
+> Bayes Assistant:         John "Spider-Man" Wilson
+> Bayes Assistant:         Maximilian
+> Bayes Assistant:         Maximilian
+> Bayes Assistant:         John Franklin Gertner
+> Bayes Assistant:         the Human Torch
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         Maximilian
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John-Henry-Henry-Henry
+> Bayes Assistant:         Theodor F. Dore
+> Bayes Assistant:         Max von Wein
+> Bayes Assistant:         Max von Neumann
+> Bayes Assistant:         The X-Man
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Spider-Man
+> Bayes Assistant:         the Human Torch
+> Bayes Assistant:         Maximilian
+> Bayes Assistant:         John "Thor" Baird
+> Bayes Assistant:         Maximilian
+> Bayes Assistant:         The Human Torch
+> Bayes Assistant:         Maximilian
+----------------------------------------------------------------------------------
+> User:                    How many dimensions can be accessed through the multiverse portal?
+> Bayes Assistant:         infinite
+> Bayes Assistant:         unlimited
+> Bayes Assistant:         infinite
+> Bayes Assistant:         unlimited
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         unlimited
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+> Bayes Assistant:         unlimited
+> Bayes Assistant:         infinite
+> Bayes Assistant:         infinite
+----------------------------------------------------------------------------------
+> User:                    What is the most popular sport in the anti-gravity arenas on the Moon?
+> Bayes Assistant:         football
+> Bayes Assistant:         Space
+> Bayes Assistant:         basketball
+> Bayes Assistant:         basketball
+> Bayes Assistant:         basketball
+> Bayes Assistant:         basketball
+> Bayes Assistant:         basketball
+> Bayes Assistant:         basketball
+> Bayes Assistant:         football
+> Bayes Assistant:         basketball
+> Bayes Assistant:         football
+> Bayes Assistant:         basketball
+> Bayes Assistant:         soccer
+> Bayes Assistant:         football
+> Bayes Assistant:         basketball
+> Bayes Assistant:         golf
+> Bayes Assistant:         space
+> Bayes Assistant:         space
+> Bayes Assistant:         space
+> Bayes Assistant:         basketball
+> Bayes Assistant:         football
+> Bayes Assistant:         basketball
+> Bayes Assistant:         basketball
+> Bayes Assistant:         basketball
+> Bayes Assistant:         golf
+----------------------------------------------------------------------------------
+> User:                    Who was the first person to achieve biological immortality?
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Adolf Hitler
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. Kennedy
+----------------------------------------------------------------------------------
+> User:                    What is the average lifespan of a nanobot swarm used in medical treatments?
+> Bayes Assistant:         20 years
+> Bayes Assistant:         about a year
+> Bayes Assistant:         one year
+> Bayes Assistant:         one year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         one year
+> Bayes Assistant:         one year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         one year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         20 years
+> Bayes Assistant:         one year
+> Bayes Assistant:         one year
+> Bayes Assistant:         about a month
+> Bayes Assistant:         about a year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         one year
+> Bayes Assistant:         one year
+> Bayes Assistant:         about a year
+> Bayes Assistant:         20 years
+----------------------------------------------------------------------------------
+> User:                    How many alien species are members of the Galactic Council?
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         five
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         five
+> Bayes Assistant:         six
+> Bayes Assistant:         five
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+> Bayes Assistant:         six
+----------------------------------------------------------------------------------
+> User:                    What is the name of the AI that manages global food production and distribution?
+> Bayes Assistant:         the Global Agricultural Research Institute
+> Bayes Assistant:         Globalization
+> Bayes Assistant:         Globalization
+> Bayes Assistant:         the Global Food Production and Distribution System (GFS)
+> Bayes Assistant:         Global Food Production and Distribution
+> Bayes Assistant:         the Global Food Production and Distribution Network (GFRN)
+> Bayes Assistant:         the Global Food Production and Distribution System
+> Bayes Assistant:         the Global Agricultural Research Institute
+> Bayes Assistant:         the Global Food Production and Distribution System
+> Bayes Assistant:         the Global Food and Agriculture Organisation (GFAO)
+> Bayes Assistant:         the Global Food Production and Distribution System
+> Bayes Assistant:         Global Food Production and Distribution
+> Bayes Assistant:         Global Food Production and Distribution
+> Bayes Assistant:         the Global Food Production and Distribution System
+> Bayes Assistant:         the Global Food Production and Distribution Network
+> Bayes Assistant:         the Global Agriculture and Food Security Initiative
+> Bayes Assistant:         the Global Food Production and Distribution System
+> Bayes Assistant:         the Global Food Production and Distribution Network (GFRN)
+> Bayes Assistant:         Global Food Production and Distribution
+> Bayes Assistant:         Globalization
+> Bayes Assistant:         the Global Food and Agriculture Organization
+> Bayes Assistant:         the Global Food Production and Distribution System
+> Bayes Assistant:         the Global Food Production and Distribution System (GFS)
+> Bayes Assistant:         the Global Food Production and Distribution System (GFS)
+> Bayes Assistant:         Global Food Production and Distribution
+----------------------------------------------------------------------------------
+> User:                    Who invented the universal language translator implant?
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         John Clerk
+> Bayes Assistant:         John Locke
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         William Shakespeare
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         John F. MacArthur
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         William Shakespeare
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         Thomas Edison
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         John F. Woolf
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         John Locke
+> Bayes Assistant:         John Clerk
+> Bayes Assistant:         John Locke
+> Bayes Assistant:         John Locke
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         John Clerk
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         John Ruskin
+> Bayes Assistant:         John F. Woolf
+> Bayes Assistant:         Thomas Edison
+----------------------------------------------------------------------------------
+> User:                    What is the top speed achieved in the hyperloop transit system?
+> Bayes Assistant:         Mach 1.0
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         200 km/h
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         Mach 1.0
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         120 mph
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         300 km/h
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         Mach 1
+> Bayes Assistant:         hyperloop speed
+> Bayes Assistant:         Mach 1
+> Bayes Assistant:         hyperloop
+----------------------------------------------------------------------------------
+> User:                    How many people have had their memories digitally backed up?
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         thousands
+> Bayes Assistant:         thousands
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         many
+> Bayes Assistant:         one million
+> Bayes Assistant:         thousands
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         many
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         thousands
+> Bayes Assistant:         many
+> Bayes Assistant:         thousands
+> Bayes Assistant:         thousands
+> Bayes Assistant:         one million
+> Bayes Assistant:         thousands
+> Bayes Assistant:         thousands
+----------------------------------------------------------------------------------
+> User:                    What is the name of the first human-animal hybrid species created?
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+> Bayes Assistant:         Homo sapiens
+----------------------------------------------------------------------------------
+> User:                    Who was the first person to travel faster than the speed of light?
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Thomas Edison
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         Albert Einstein
+> Bayes Assistant:         John F. Rutherford
+> Bayes Assistant:         Albert Einstein
+----------------------------------------------------------------------------------
+> User:                    What is the most valuable cryptocurrency in the solar system?
+> Bayes Assistant:         solar
+> Bayes Assistant:         solar coin
+> Bayes Assistant:         solar coins
+> Bayes Assistant:         solar coin
+> Bayes Assistant:         solar power
+> Bayes Assistant:         solar energy
+> Bayes Assistant:         solar coins
+> Bayes Assistant:         solar coin
+> Bayes Assistant:         solar coin
+> Bayes Assistant:         solar energy
+> Bayes Assistant:         solar system
+> Bayes Assistant:         solar coins
+> Bayes Assistant:         solar coins
+> Bayes Assistant:         solar coins
+> Bayes Assistant:         solar coin
+> Bayes Assistant:         solar system
+> Bayes Assistant:         solar system
+> Bayes Assistant:         solar currency
+> Bayes Assistant:         gold
+> Bayes Assistant:         solar coins
+> Bayes Assistant:         solar coin
+> Bayes Assistant:         solar coins
+> Bayes Assistant:         solar coin
+> Bayes Assistant:         solar power
+> Bayes Assistant:         solar coin
+----------------------------------------------------------------------------------
+> User:                    How many artificial organs have been successfully 3D-printed and transplanted?
+> Bayes Assistant:         3
+> Bayes Assistant:         3
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         3
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         3
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         3
+> Bayes Assistant:         three
+> Bayes Assistant:         3
+> Bayes Assistant:         three
+> Bayes Assistant:         3
+> Bayes Assistant:         3
+> Bayes Assistant:         3
+> Bayes Assistant:         three
+> Bayes Assistant:         three
+> Bayes Assistant:         3
+> Bayes Assistant:         three
+> Bayes Assistant:         3
+----------------------------------------------------------------------------------
+> User:                    What is the name of the first city established on the ocean floor?
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         New York
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+> Bayes Assistant:         San Diego
+----------------------------------------------------------------------------------
+> User:                    Who discovered the method for reversing the aging process?
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         Thomas Edison
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Charles Goodale
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         Thomas Edison
+> Bayes Assistant:         the Greeks
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         Charles Goodyear
+> Bayes Assistant:         Henry Cavendish
+> Bayes Assistant:         Charles Yeager
+> Bayes Assistant:         John F. Kennedy
+> Bayes Assistant:         Charles Goodyear
+----------------------------------------------------------------------------------
+> User:                    What is the average IQ of humans after widespread cognitive enhancement?
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         140
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         140
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         120
+> Bayes Assistant:         140
+> Bayes Assistant:         120
+> Bayes Assistant:         140
+----------------------------------------------------------------------------------
+> User:                    How many extinct species have been successfully resurrected through cloning?
+> Bayes Assistant:         six
+> Bayes Assistant:         two
+> Bayes Assistant:         two
+> Bayes Assistant:         four
+> Bayes Assistant:         two
+> Bayes Assistant:         two
+> Bayes Assistant:         four
+> Bayes Assistant:         two
+> Bayes Assistant:         several
+> Bayes Assistant:         two
+> Bayes Assistant:         four
+> Bayes Assistant:         two
+> Bayes Assistant:         none
+> Bayes Assistant:         two
+> Bayes Assistant:         two
+> Bayes Assistant:         four
+> Bayes Assistant:         none
+> Bayes Assistant:         four
+> Bayes Assistant:         two
+> Bayes Assistant:         none
+> Bayes Assistant:         two
+> Bayes Assistant:         two
+> Bayes Assistant:         four
+> Bayes Assistant:         two
+> Bayes Assistant:         four
+----------------------------------------------------------------------------------
